@@ -1,6 +1,6 @@
-# SBS Cantonese Podcasts
+# RTHK Cantonese Podcasts
 
-Scrape SBS Cantonese podcasts.
+Scrape RTHK Cantonese podcasts.
 
 # Scrape
 
